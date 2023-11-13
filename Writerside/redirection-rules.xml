@@ -34,4 +34,8 @@
         <description>Created after removal of "4" from VCChart</description>
         <accepts>4.html</accepts>
     </rule>
+    <rule id="319546d0">
+        <description>Created after removal of "변하지 않는 것" from VCChart</description>
+        <accepts>38.html</accepts>
+    </rule>
 </rules>
