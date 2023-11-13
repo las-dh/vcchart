@@ -4,9 +4,9 @@
 
 <instance-profile id="v"
                  name="VCChart"
-                 start-page="0.md">
+                 start-page="home.md">
 
-    <toc-element topic="0.md">
+    <toc-element topic="home.md">
         <toc-element topic="1.md"/>
         <toc-element topic="2.md">
             <toc-element topic="4.md"/>

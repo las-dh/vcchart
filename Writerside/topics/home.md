@@ -1,4 +1,4 @@
-# VCChart
+# VCChart 개요
 
 ## 내용
 
