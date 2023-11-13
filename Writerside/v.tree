@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE instance-profile
+        SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
+
+<instance-profile id="v"
+                 name="VCChart"
+                 start-page="0.md">
+
+    <toc-element topic="0.md">
+        <toc-element topic="1.md"/>
+        <toc-element topic="2.md">
+            <toc-element topic="4.md"/>
+        </toc-element>
+        <toc-element topic="3.md">
+            <toc-element topic="5.md"/>
+        </toc-element>
+    </toc-element>
+</instance-profile>

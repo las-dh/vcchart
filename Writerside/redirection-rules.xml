@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="76f52446">
+        <description>Created after removal of "This is the first topic" from Help Instance</description>
+        <accepts>Default-topic.html</accepts>
+    </rule>
+    <rule id="2e2209ec">
+        <description>Created after removal of "Tutorial" from VCChart</description>
+        <accepts>Tutorial.html</accepts>
+    </rule>
+    <rule id="16a9f5d">
+        <description>Created after removal of "Reference" from VCChart</description>
+        <accepts>Reference.html</accepts>
+    </rule>
+    <rule id="78d9d51b">
+        <description>Created after removal of "Overview" from VCChart</description>
+        <accepts>Overview.html</accepts>
+    </rule>
+    <rule id="4bb86a3a">
+        <description>Created after removal of "How to" from VCChart</description>
+        <accepts>How-to.html</accepts>
+    </rule>
+    <rule id="c7c41ae">
+        <description>Created after removal of "개요" from VCChart</description>
+        <accepts>1.html</accepts>
+    </rule>
+    <rule id="33924d74">
+        <description>Created after removal of "4" from VCChart</description>
+        <accepts>4.html</accepts>
+    </rule>
+</rules>
